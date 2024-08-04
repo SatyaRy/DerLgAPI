@@ -13,9 +13,9 @@
             "location": "Kampot, distrit",
             "travelTime": "2 h 32 min",
             "landscape":[
-                           "/img/square.svg",
-                           "/img/square1.svg",                        
-                           "/img/square2.svg"                           
+                           "img/square.svg",
+                           "img/square1.svg",                        
+                           "img/square2.svg"                           
                         ]
         },
         {
