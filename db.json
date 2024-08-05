@@ -30,9 +30,9 @@
             "location": "Kampot, distrit",
             "travelTime": "2 h 38 min",
             "landscape":  [
-                            "/img/sochea.svg",
-                            "/img/sochea1.svg",                        
-                            "/img/sochea2.svg"                           
+                            "img/sochea.svg",
+                            "img/sochea1.svg",                        
+                            "img/sochea2.svg"                           
                           ]   
         } ,
         {
