@@ -47,9 +47,9 @@
             "location": "kampot",
             "travelTime":"2 h 32 min",
             "landscape": [
-                            "/img/riverfront.svg",
-                            "/img/riverfront1.svg",                        
-                            "/img/riverfront2.svg"                        
+                            "img/riverfront.svg",
+                            "img/riverfront1.svg",                        
+                            "img/riverfront2.svg"                        
                          ]
 
 
@@ -66,9 +66,9 @@
             "location": "Kampot beach",
             "travelTime": "2 h 57 min", 
             "landscape":  [
-                           "/img/veranda.svg",
-                           "/img/veranda1.svg",                        
-                           "/img/veranda2.svg"                         
+                           "img/veranda.svg",
+                           "img/veranda1.svg",                        
+                           "img/veranda2.svg"                         
                           ]
 
 
@@ -85,9 +85,9 @@
             "location": "kampot beach",
             "travelTime": "2 h 57 min", 
             "landscape":  [
-                           "/img/sabay.svg",
-                           "/img/sabay1.svg",                        
-                           "/img/sabay2.svg"                         
+                           "img/sabay.svg",
+                           "img/sabay1.svg",                        
+                           "img/sabay2.svg"                         
                           ]
 
 
@@ -105,9 +105,9 @@
             "location": "SiemReap angkor",
             "travelTime": "5 h 30 min", 
             "landscape":  [
-                           "/img/fullmoon.svg",
-                           "/img/fullmoon1.svg",                        
-                           "/img/fullmoon2.svg"                         
+                           "img/fullmoon.svg",
+                           "img/fullmoon1.svg",                        
+                           "img/fullmoon2.svg"                         
                           ]
 
 
@@ -124,9 +124,9 @@
             "location": "siemreap",
             "travelTime": "6 mins",
             "landscape": [
-                          "/img/anatara.svg",
-                          "/img/anatara1.svg",                        
-                          "/img/anatara2.svg"                    
+                          "img/anatara.svg",
+                          "img/anatara1.svg",                        
+                          "img/anatara2.svg"                    
                          ]
 
 
@@ -143,9 +143,9 @@
             "location": "siemreap",
             "travelTime": "5 h 11 min",
             "landscape": [
-                          "/img/sokhak.svg",
-                          "/img/sokhak1.svg",                        
-                          "/img/sokhak2.svg"                    
+                          "img/sokhak.svg",
+                          "img/sokhak1.svg",                        
+                          "img/sokhak2.svg"                    
                          ]
 
 
@@ -162,9 +162,9 @@
             "location": "siemreap",
             "travelTime": "5 h 21 min",
             "landscape":  [
-                           "/img/temp.svg",
-                            "/img/temp1.svg",                        
-                            "/img/temp2.svg"                       
+                           "img/temp.svg",
+                            "img/temp1.svg",                        
+                            "img/temp2.svg"                       
                           ]
 
         },
@@ -179,9 +179,9 @@
             "location": "siemreap",
             "travelTime": "5 h 7 min",
             "landscape":  [
-                           "/img/shinta.svg",
-                            "/img/shinta1.svg",                        
-                            "/img/shinta2.svg"                       
+                           "img/shinta.svg",
+                            "img/shinta1.svg",                        
+                            "img/shinta2.svg"                       
                           ]
         },
         {
@@ -195,9 +195,9 @@
             "location": "siemreap",
             "travelTime": "5 h 39 min",
             "landscape":  [
-                           "/img/beige.svg",
-                            "/img/beige1.svg",                        
-                            "/img/beige2.svg"                       
+                           "img/beige.svg",
+                            "img/beige1.svg",                        
+                            "img/beige2.svg"                       
                           ]
         },
         {
@@ -211,9 +211,9 @@
             "location": "siemreap",
             "travelTime": "5 h 21 min",
             "landscape":  [
-                           "/img/temp.svg",
-                            "/img/temp1.svg",                        
-                            "/img/temp2.svg"                       
+                           "img/temp.svg",
+                            "img/temp1.svg",                        
+                            "img/temp2.svg"                       
                           ]
         },
         {
@@ -227,9 +227,9 @@
             "location": "siemreap",
             "travelTime": "5 h 21 min",
             "landscape":  [
-                            "/img/young.svg",
-                            "/img/young1.svg",                        
-                            "/img/young2.svg"                         
+                            "img/young.svg",
+                            "img/young1.svg",                        
+                            "img/young2.svg"                         
                           ]
 
         },
@@ -245,9 +245,9 @@
             "location": "kampong spue",
             "travelTime": "45-60 mins",
             "landscape":  [
-                            "/img/camp.svg",
-                            "/img/camp1.svg",                        
-                            "/img/camp2.svg"                         
+                            "img/camp.svg",
+                            "img/camp1.svg",                        
+                            "img/camp2.svg"                         
                           ]
 
         },
@@ -263,9 +263,9 @@
             "location": "kampong spue",
             "travelTime": "40 mins",
             "landscape":  [
-                            "/img/shalom.svg",
-                            "/img/shalom1.svg",                        
-                            "/img/shalom2.svg"                         
+                            "img/shalom.svg",
+                            "img/shalom1.svg",                        
+                            "img/shalom2.svg"                         
                           ]
 
         },
@@ -281,9 +281,9 @@
             "location": "kampong spue",
             "travelTime": "45 mins",
             "landscape":  [
-                            "/img/kamcamp.svg",
-                            "/img/kamcamp1.svg",                        
-                            "/img/kamcamp2.svg"                         
+                            "img/kamcamp.svg",
+                            "img/kamcamp1.svg",                        
+                            "img/kamcamp2.svg"                         
                           ]
 
         }
