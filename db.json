@@ -4,7 +4,7 @@
         {
 
             "id": "1",
-            "in": 1,
+            "iN": 1,
             "pn": "kampot",
             "t": "Camping",
             "rn": "the square",
@@ -21,7 +21,7 @@
         {
 
             "id": "2",
-            "in": 2,
+            "iN": 2,
             "pn": "kampot",
             "t": "Beach",
             "rn": "sokchea kampot",
@@ -38,7 +38,7 @@
         {
 
             "id":"3",
-            "in": 3,
+            "iN": 3,
             "pn": "kampot",
             "t": "Hotel",
             "rn": "kampot riverfront boutique",
@@ -57,7 +57,7 @@
         {
 
             "id":"4",
-            "in": 4,
+            "iN": 4,
             "t": "Resort",
             "rn": "veranda natural resort",
             "pn": "kampot",
@@ -76,7 +76,7 @@
         {
 
             "id": "5",
-            "in": 5,
+            "iN": 5,
             "t": "Hotel",
             "rn": "sabbay kep",
             "pn":"kampot",
@@ -95,7 +95,7 @@
         {
 
             "id": "6",
-            "in": 6,
+            "iN": 6,
             "t": "Beach",
             "rn": "full moon",
             "pn":"kampot",
@@ -114,7 +114,7 @@
         {
 
             "id":"7",
-            "in": 7,
+            "iN": 7,
             "t": "Temple",
             "rn": "anatara angkor",
             "pn": "siemreap",
@@ -133,7 +133,7 @@
         {
 
             "id":"8",
-            "in": 8,
+            "iN": 8,
             "t": "Temple",
             "rn": "sokkhak boutique",
             "pn": "siemreap",
@@ -152,7 +152,7 @@
         {
 
             "id": "9",
-            "in": 9,
+            "iN": 9,
             "t": "Temple",
             "pn": "siemreap",
             "rn": "templation hotel",
@@ -169,7 +169,7 @@
         },
         {
             "id": "10",
-            "in": 10,
+            "iN": 10,
             "t": "Temple",
             "rn": "shinta mani angkor",
             "pn": "siemreap",
@@ -185,7 +185,7 @@
         },
         {
             "id":"11",
-            "in": 11,
+            "iN": 11,
             "t": "Temple",
             "rn": "the beige",
             "pn":"siemreap",
@@ -201,7 +201,7 @@
         },
         {
             "id": "12",
-            "in": 12,
+            "iN": 12,
             "t": "Temple",
             "pn": "siemreap",
             "rn": "templation hotel",
@@ -217,7 +217,7 @@
         },
         {
             "id": "13",
-            "in": 13,
+            "iN": 13,
             "t": "Mountain",
             "rn": "young wild and free",
             "pn": "koskong",
@@ -235,7 +235,7 @@
         {
           
             "id": "14",
-            "in": 14,
+            "iN": 14,
             "t": "Camping",
             "rn": "camping park resort",
             "pn": "kampong spue",
@@ -253,7 +253,7 @@
         {
           
             "id": "15",
-            "in": 15,
+            "iN": 15,
             "t": "Camping",
             "rn": "shalom valley",
             "pn": "kampot",
@@ -271,7 +271,7 @@
         {
           
             "id": "16",
-            "in": 16,
+            "iN": 16,
             "t": "Camping",
             "rn": "kampot camping",
             "pn": "kampot",
