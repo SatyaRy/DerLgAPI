@@ -4,15 +4,15 @@
         {
 
             "id": "1",
-            "indexNumber": 1,
-            "provinceName": "kampot",
-            "type": "Camping",
-            "resortName": "the square",
-            "travelDistance": "129",
-            "averagecost":43,
-            "location": "Kampot, distrit",
-            "travelTime": "2 h 32 min",
-            "landscape":[
+            "in": 1,
+            "pn": "kampot",
+            "t": "Camping",
+            "rn": "the square",
+            "td": "129",
+            "ac":43,
+            "lo": "Kampot, distrit",
+            "ti": "2 h 32 min",
+            "l":[
                            "img/square.svg",
                            "img/square1.svg",                        
                            "img/square2.svg"                           
@@ -21,15 +21,15 @@
         {
 
             "id": "2",
-            "indexNumber": 2,
-            "provinceName": "kampot",
-            "type": "Beach",
-            "resortName": "sokchea kampot",
-            "travelDistance": "138",
-            "averagecost":50,
-            "location": "Kampot, distrit",
-            "travelTime": "2 h 38 min",
-            "landscape":  [
+            "in": 2,
+            "pn": "kampot",
+            "t": "Beach",
+            "rn": "sokchea kampot",
+            "td": "138",
+            "ac":50,
+            "lo": "Kampot, distrit",
+            "ti": "2 h 38 min",
+            "l":  [
                             "img/sochea.svg",
                             "img/sochea1.svg",                        
                             "img/sochea2.svg"                           
@@ -38,15 +38,15 @@
         {
 
             "id":"3",
-            "indexNumber": 3,
-            "provinceName": "kampot",
-            "type": "Hotel",
-            "resortName": "kampot riverfront boutique",
-            "travelDistance": "129",
-            "averagecost":43,
-            "location": "kampot",
-            "travelTime":"2 h 32 min",
-            "landscape": [
+            "in": 3,
+            "pn": "kampot",
+            "t": "Hotel",
+            "rn": "kampot riverfront boutique",
+            "td": "129",
+            "ac":43,
+            "lo": "kampot",
+            "ti":"2 h 32 min",
+            "l": [
                             "img/riverfront.svg",
                             "img/riverfront1.svg",                        
                             "img/riverfront2.svg"                        
@@ -57,15 +57,15 @@
         {
 
             "id":"4",
-            "indexNumber": 4,
-            "type": "Resort",
-            "resortName": "veranda natural resort",
-            "provinceName": "kampot",
-            "distance": "135",
-            "averagecost":109,
-            "location": "Kampot beach",
-            "travelTime": "2 h 57 min", 
-            "landscape":  [
+            "in": 4,
+            "t": "Resort",
+            "rn": "veranda natural resort",
+            "pn": "kampot",
+            "td": "135",
+            "ac":109,
+            "lo": "Kampot beach",
+            "ti": "2 h 57 min", 
+            "l":  [
                            "img/veranda.svg",
                            "img/veranda1.svg",                        
                            "img/veranda2.svg"                         
@@ -76,15 +76,15 @@
         {
 
             "id": "5",
-            "indexNumber": 5,
-            "type": "Hotel",
-            "resortName": "sabbay kep",
-            "provinceName":"kampot",
-            "travelDistance": "135",
-            "averagecost":50,
-            "location": "kampot beach",
-            "travelTime": "2 h 57 min", 
-            "landscape":  [
+            "in": 5,
+            "t": "Hotel",
+            "rn": "sabbay kep",
+            "pn":"kampot",
+            "td": "135",
+            "ac":50,
+            "lo": "kampot beach",
+            "ti": "2 h 57 min", 
+            "l":  [
                            "img/sabay.svg",
                            "img/sabay1.svg",                        
                            "img/sabay2.svg"                         
@@ -95,16 +95,15 @@
         {
 
             "id": "6",
-            "indexNumber": 6,
-            "type": "Beach",
-            "resortName": "full moon",
-            "provinceName":"kampot",
-            "travelDistance": "213",
-            "popularity": "tba",
-            "averagecost":400,
-            "location": "SiemReap angkor",
-            "travelTime": "5 h 30 min", 
-            "landscape":  [
+            "in": 6,
+            "t": "Beach",
+            "rn": "full moon",
+            "pn":"kampot",
+            "td": "213",
+            "ac":400,
+            "lo": "SiemReap angkor",
+            "ti": "5 h 30 min", 
+            "l":  [
                            "img/fullmoon.svg",
                            "img/fullmoon1.svg",                        
                            "img/fullmoon2.svg"                         
@@ -115,15 +114,15 @@
         {
 
             "id":"7",
-            "indexNumber": 7,
-            "type": "Temple",
-            "resortName": "anatara angkor",
-            "provinceName": "siemreap",
-            "travelDistance": "2.9",
-            "averagecost":157,
-            "location": "siemreap",
-            "travelTime": "6 mins",
-            "landscape": [
+            "in": 7,
+            "t": "Temple",
+            "rn": "anatara angkor",
+            "pn": "siemreap",
+            "td": "2.9",
+            "ac":157,
+            "lo": "siemreap",
+            "ti": "6 mins",
+            "l": [
                           "img/anatara.svg",
                           "img/anatara1.svg",                        
                           "img/anatara2.svg"                    
@@ -134,15 +133,15 @@
         {
 
             "id":"8",
-            "indexNumber": 8,
-            "type": "Temple",
-            "resortName": "sokkhak boutique",
-            "provinceName": "siemreap",
-            "travelDistance": "234",
-            "averagecost":62,
-            "location": "siemreap",
-            "travelTime": "5 h 11 min",
-            "landscape": [
+            "in": 8,
+            "t": "Temple",
+            "rn": "sokkhak boutique",
+            "pn": "siemreap",
+            "td": "234",
+            "ac":62,
+            "lo": "siemreap",
+            "ti": "5 h 11 min",
+            "l": [
                           "img/sokhak.svg",
                           "img/sokhak1.svg",                        
                           "img/sokhak2.svg"                    
@@ -153,15 +152,15 @@
         {
 
             "id": "9",
-            "indexNumber": 9,
-            "type": "Temple",
-            "provinceName": "siemreap",
-            "resortName": "templation hotel",
-            "travelDistance": "329.8",
-            "averagecost":80,
-            "location": "siemreap",
-            "travelTime": "5 h 21 min",
-            "landscape":  [
+            "in": 9,
+            "t": "Temple",
+            "pn": "siemreap",
+            "rn": "templation hotel",
+            "td": "329.8",
+            "ac":80,
+            "lo": "siemreap",
+            "ti": "5 h 21 min",
+            "l":  [
                            "img/temp.svg",
                             "img/temp1.svg",                        
                             "img/temp2.svg"                       
@@ -170,15 +169,15 @@
         },
         {
             "id": "10",
-            "indexNumber": 10,
-            "type": "Temple",
-            "resortName": "shinta mani angkor",
-            "provinceName": "siemreap",
-            "travelDistance": "232",
-            "averagecost":139,
-            "location": "siemreap",
-            "travelTime": "5 h 7 min",
-            "landscape":  [
+            "in": 10,
+            "t": "Temple",
+            "rn": "shinta mani angkor",
+            "pn": "siemreap",
+            "td": "232",
+            "ac":139,
+            "lo": "siemreap",
+            "ti": "5 h 7 min",
+            "l":  [
                            "img/shinta.svg",
                             "img/shinta1.svg",                        
                             "img/shinta2.svg"                       
@@ -186,15 +185,15 @@
         },
         {
             "id":"11",
-            "indexNumber": 11,
-            "type": "Temple",
-            "resortName": "the beige",
-            "provinceName":"siemreap",
-            "travelDistance": "248",
-            "averagecost":715,
-            "location": "siemreap",
-            "travelTime": "5 h 39 min",
-            "landscape":  [
+            "in": 11,
+            "t": "Temple",
+            "rn": "the beige",
+            "pn":"siemreap",
+            "td": "248",
+            "ac":715,
+            "lo": "siemreap",
+            "ti": "5 h 39 min",
+            "l":  [
                            "img/beige.svg",
                             "img/beige1.svg",                        
                             "img/beige2.svg"                       
@@ -202,15 +201,15 @@
         },
         {
             "id": "12",
-            "indexNumber": 12,
-            "type": "Temple",
-            "provinceName": "siemreap",
-            "resortName": "templation hotel",
-            "travelDistance": "329.8",
-            "averagecost":80,
-            "location": "siemreap",
-            "travelTime": "5 h 21 min",
-            "landscape":  [
+            "in": 12,
+            "t": "Temple",
+            "pn": "siemreap",
+            "rn": "templation hotel",
+            "td": "329.8",
+            "ac":80,
+            "lo": "siemreap",
+            "ti": "5 h 21 min",
+            "l":  [
                            "img/temp.svg",
                             "img/temp1.svg",                        
                             "img/temp2.svg"                       
@@ -218,15 +217,15 @@
         },
         {
             "id": "13",
-            "indexNumber": 13,
-            "type": "Mountain",
-            "resortName": "young wild and free",
-            "provinceName": "koskong",
-            "travelDistance": "213",
-            "averagecost":13.25,
-            "location": "siemreap",
-            "travelTime": "5 h 21 min",
-            "landscape":  [
+            "in": 13,
+            "t": "Mountain",
+            "rn": "young wild and free",
+            "pn": "koskong",
+            "td": "213",
+            "ac":13.25,
+            "lo": "siemreap",
+            "ti": "5 h 21 min",
+            "l":  [
                             "img/young.svg",
                             "img/young1.svg",                        
                             "img/young2.svg"                         
@@ -236,15 +235,15 @@
         {
           
             "id": "14",
-            "indexNumber": 14,
-            "type": "Camping",
-            "resortName": "camping park resort",
-            "provinceName": "kampong spue",
-            "travelDistance": "78",
-            "averagecost":50,
-            "location": "kampong spue",
-            "travelTime": "45-60 mins",
-            "landscape":  [
+            "in": 14,
+            "t": "Camping",
+            "rn": "camping park resort",
+            "pn": "kampong spue",
+            "td": "78",
+            "ac":50,
+            "lo": "kampong spue",
+            "ti": "45-60 mins",
+            "l":  [
                             "img/camp.svg",
                             "img/camp1.svg",                        
                             "img/camp2.svg"                         
@@ -254,15 +253,15 @@
         {
           
             "id": "15",
-            "indexNumber": 15,
-            "type": "Camping",
-            "resortName": "shalom valley",
-            "provinceName": "kampot",
-            "travelDistance": "30",
-            "averagecost":70,
-            "location": "kampong spue",
-            "travelTime": "40 mins",
-            "landscape":  [
+            "in": 15,
+            "t": "Camping",
+            "rn": "shalom valley",
+            "pn": "kampot",
+            "td": "30",
+            "ac":70,
+            "lo": "kampong spue",
+            "ti": "40 mins",
+            "l":  [
                             "img/shalom.svg",
                             "img/shalom1.svg",                        
                             "img/shalom2.svg"                         
@@ -272,15 +271,15 @@
         {
           
             "id": "16",
-            "indexNumber": 16,
-            "type": "Camping",
-            "resortName": "kampot camping",
-            "provinceName": "kampot",
-            "travelDistance": "25",
-            "averagecost":20,
-            "location": "kampong spue",
-            "travelTime": "45 mins",
-            "landscape":  [
+            "in": 16,
+            "t": "Camping",
+            "rn": "kampot camping",
+            "pn": "kampot",
+            "td": "25",
+            "ac":20,
+            "lo": "kampong spue",
+            "ti": "45 mins",
+            "l":  [
                             "img/kamcamp.svg",
                             "img/kamcamp1.svg",                        
                             "img/kamcamp2.svg"                         
