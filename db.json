@@ -216,6 +216,78 @@
                             "img/mealea2.svg"                         
                           ]
 
+        },
+        {
+          
+            "id": "13",
+            "indexNumber": 13,
+            "type": "Camping",
+            "resortName": "Merl Pkay Camping",
+            "provinceName": "Kampong Channag",
+            "travelDistance": "112.3",
+            "averagecost":5,
+            "location": "Siem Reap",
+            "travelTime": "2 H 19 Mins",
+            "landscape":  [
+                            "img/mealea.svg",
+                            "img/mealea1.svg",                        
+                            "img/mealea2.svg"                         
+                          ]
+
+        },
+        {
+          
+            "id": "14",
+            "indexNumber": 14,
+            "type": "Camping",
+            "resortName": "Areng Camping",
+            "provinceName": "Kos Kong",
+            "travelDistance": "329.7",
+            "averagecost":5,
+            "location": "Kos Kong",
+            "travelTime": "5 H 45 Mins",
+            "landscape":  [
+                            "img/mealea.svg",
+                            "img/mealea1.svg",                        
+                            "img/mealea2.svg"                         
+                          ]
+
+        },
+        {
+          
+            "id": "15",
+            "indexNumber": 15,
+            "type": "Camping",
+            "resortName": "Wild Farm",
+            "provinceName": "Siem Reap",
+            "travelDistance": "315.9",
+            "averagecost":5,
+            "location": "Siem Reap",
+            "travelTime": "5 H 15 Mins",
+            "landscape":  [
+                            "img/mealea.svg",
+                            "img/mealea1.svg",                        
+                            "img/mealea2.svg"                         
+                          ]
+
+        },
+        {
+          
+            "id": "16",
+            "indexNumber": 16,
+            "type": "Camping",
+            "resortName": "River Cloud Camping",
+            "provinceName": "Kos Kong",
+            "travelDistance": "185",
+            "averagecost":5,
+            "location": "Kos Kong",
+            "travelTime": "3 H 25 Mins",
+            "landscape":  [
+                            "img/mealea.svg",
+                            "img/mealea1.svg",                        
+                            "img/mealea2.svg"                         
+                          ]
+
         }
         
     ]
