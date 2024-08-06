@@ -67,9 +67,9 @@
             "location": "Preah Vihear",
             "travelTime": "7 H 18 Mins",
             "landscape":  [
-                            "img/shalom.svg",
-                            "img/shalom1.svg",                        
-                            "img/shalom2.svg"                         
+                            "img/preah.svg",
+                            "img/preah1.svg",                        
+                            "img/preah2.svg"                         
                           ]
 
         },
