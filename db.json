@@ -67,9 +67,9 @@
             "location": "Preah Vihear",
             "travelTime": "7 H 18 Mins",
             "landscape":  [
-                            "img/preah.svg",
-                            "img/preah1.svg",                        
-                            "img/preah2.svg"                         
+                            "img/shalom.svg",
+                            "img/shalom1.svg",                        
+                            "img/shalom2.svg"                         
                           ]
 
         },
@@ -157,9 +157,9 @@
             "location": "Preah Vihear",
             "travelTime": "6 H 10 Mins",
             "landscape":  [
-                            "img/kohker.svg",
-                            "img/kohker1.svg",                        
-                            "img/kohker2.svg"                         
+                            "img/shalom.svg",
+                            "img/shalom1.svg",                        
+                            "img/shalom2.svg"                         
                           ]
 
         },
@@ -175,9 +175,9 @@
             "location": "Phnom Penh",
             "travelTime": "8 Mins",
             "landscape":  [
-                            "img/preah.svg",
-                            "img/preah1.svg",                        
-                            "img/preah2.svg"                         
+                            "img/shalom.svg",
+                            "img/shalom1.svg",                        
+                            "img/shalom2.svg"                         
                           ]
 
         },
@@ -211,9 +211,9 @@
             "location": "Siem Reap",
             "travelTime": "5 H 15 Mins",
             "landscape":  [
-                            "img/mealea.svg",
-                            "img/mealea1.svg",                        
-                            "img/mealea2.svg"                         
+                            "img/shalom.svg",
+                            "img/shalom1.svg",                        
+                            "img/shalom2.svg"                         
                           ]
 
         },
