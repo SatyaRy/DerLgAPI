@@ -85,9 +85,9 @@
             "location": "Preah Vihear",
             "travelTime": "7 H",
             "landscape":  [
-                            "img/preah.svg",
-                            "img/preah1.svg",                        
-                            "img/preah2.svg"                         
+                            "img/shalom.svg",
+                            "img/shalom1.svg",                        
+                            "img/shalom2.svg"                         
                           ]
 
         },
@@ -103,9 +103,9 @@
             "location": "Siem Reap",
             "travelTime": "5 H 30 Mins",
             "landscape":  [
-                            "img/kroam.svg",
-                            "img/kroam1.svg",                        
-                            "img/kroam2.svg"                         
+                            "img/shalom.svg",
+                            "img/shalom1.svg",                        
+                            "img/shalom2.svg"                         
                           ]
 
         },
@@ -121,9 +121,9 @@
             "location": "Siem Reap",
             "travelTime": "5 H 30 Mins",
             "landscape":  [
-                            "img/preah.svg",
-                            "img/preah1.svg",                        
-                            "img/preah2.svg"                         
+                            "img/shalom.svg",
+                            "img/shalom1.svg",                        
+                            "img/shalom2.svg"                         
                           ]
 
         },
@@ -139,9 +139,9 @@
             "location": "Siem Reap",
             "travelTime": "5 H 30 Mins",
             "landscape":  [
-                            "img/preah.svg",
-                            "img/preah1.svg",                        
-                            "img/preah2.svg"                         
+                            "img/shalom.svg",
+                            "img/shalom1.svg",                        
+                            "img/shalom2.svg"                         
                           ]
 
         },
@@ -193,9 +193,9 @@
             "location": "Kampong Thum",
             "travelTime": "3 H 30 Mins",
             "landscape":  [
-                            "img/preah.svg",
-                            "img/preah1.svg",                        
-                            "img/preah2.svg"                         
+                            "img/shalom.svg",
+                            "img/shalom1.svg",                        
+                            "img/shalom2.svg"                         
                           ]
 
         },
