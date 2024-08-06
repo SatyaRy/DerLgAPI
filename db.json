@@ -49,9 +49,9 @@
             "location": "Sieam Reap",
             "travelTime": "6 hour",
             "landscape":  [
-                            "img/bayon.svg",
-                            "img/bayon1.svg",                        
-                            "img/bayon2.svg"                         
+                            "img/shalom.svg",
+                            "img/shalom1.svg",                        
+                            "img/shalom2.svg"                         
                           ]
 
         },
