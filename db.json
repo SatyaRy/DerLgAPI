@@ -157,9 +157,9 @@
             "location": "Preah Vihear",
             "travelTime": "6 H 10 Mins",
             "landscape":  [
-                            "img/preah.svg",
-                            "img/preah1.svg",                        
-                            "img/preah2.svg"                         
+                            "img/kohker.svg",
+                            "img/kohker1.svg",                        
+                            "img/kohker2.svg"                         
                           ]
 
         },
@@ -211,9 +211,9 @@
             "location": "Siem Reap",
             "travelTime": "5 H 15 Mins",
             "landscape":  [
-                            "img/preah.svg",
-                            "img/preah1.svg",                        
-                            "img/preah2.svg"                         
+                            "img/mealea.svg",
+                            "img/mealea1.svg",                        
+                            "img/mealea2.svg"                         
                           ]
 
         }
