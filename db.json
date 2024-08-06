@@ -13,9 +13,9 @@
             "location": "kampong spue",
             "travelTime": "40 mins",
             "landscape":  [
-                            "img/shalom.svg",
-                            "img/shalom1.svg",                        
-                            "img/shalom2.svg"                         
+                            "img/Data/shalom.svg",
+                            "img/Data/shalom1.svg",                        
+                            "img/Data/shalom2.svg"                         
                           ]
 
         },
@@ -31,9 +31,9 @@
             "location": "kampong spue",
             "travelTime": "45 mins",
             "landscape":  [
-                            "img/kamcamp.svg",
-                            "img/kamcamp1.svg",                        
-                            "img/kamcamp2.svg"                         
+                            "img/Data/kamcamp.svg",
+                            "img/Data/kamcamp1.svg",                        
+                            "img/Data/kamcamp2.svg"                         
                           ]
 
         },
@@ -49,9 +49,9 @@
             "location": "Sieam Reap",
             "travelTime": "6 hour",
             "landscape":  [
-                            "img/shalom.svg",
-                            "img/shalom1.svg",                        
-                            "img/shalom2.svg"                         
+                            "img/Data/bayon.svg",
+                            "img/Data/bayon1.svg",                        
+                            "img/Data/bayon2.svg"                         
                           ]
 
         },
@@ -67,9 +67,9 @@
             "location": "Preah Vihear",
             "travelTime": "7 H 18 Mins",
             "landscape":  [
-                            "img/preah.svg",
-                            "img/preah1.svg",                        
-                            "img/preah2.svg"                         
+                            "img/Data/preah.svg",
+                            "img/Data/preah1.svg",                        
+                            "img/Data/preah2.svg"                         
                           ]
 
         },
@@ -85,9 +85,9 @@
             "location": "Preah Vihear",
             "travelTime": "7 H",
             "landscape":  [
-                            "img/shalom.svg",
-                            "img/shalom1.svg",                        
-                            "img/shalom2.svg"                         
+                            "img/Data/khan.svg",
+                            "img/Data/khan1.svg",                        
+                            "img/Data/khan2.svg"                         
                           ]
 
         },
@@ -103,9 +103,9 @@
             "location": "Siem Reap",
             "travelTime": "5 H 30 Mins",
             "landscape":  [
-                            "img/shalom.svg",
-                            "img/shalom1.svg",                        
-                            "img/shalom2.svg"                         
+                            "img/Data/kroam.svg",
+                            "img/Data/kroam1.svg",                        
+                            "img/Data/kroam2.svg"                         
                           ]
 
         },
@@ -121,9 +121,9 @@
             "location": "Siem Reap",
             "travelTime": "5 H 30 Mins",
             "landscape":  [
-                            "img/shalom.svg",
-                            "img/shalom1.svg",                        
-                            "img/shalom2.svg"                         
+                            "img/Data/banteay.svg",
+                            "img/Data/anteay1.svg",                        
+                            "img/Data/banteay2.svg"                         
                           ]
 
         },
@@ -139,9 +139,9 @@
             "location": "Siem Reap",
             "travelTime": "5 H 30 Mins",
             "landscape":  [
-                            "img/shalom.svg",
-                            "img/shalom1.svg",                        
-                            "img/shalom2.svg"                         
+                            "img/Data/baksei.svg",
+                            "img/Data/baksei1.svg",                        
+                            "img/Data/baksei2.svg"                         
                           ]
 
         },
@@ -157,9 +157,9 @@
             "location": "Preah Vihear",
             "travelTime": "6 H 10 Mins",
             "landscape":  [
-                            "img/shalom.svg",
-                            "img/shalom1.svg",                        
-                            "img/shalom2.svg"                         
+                            "img/Data/ker.svg",
+                            "img/Data/ker1.svg",                        
+                            "img/Data/ker2.svg"                         
                           ]
 
         },
@@ -175,9 +175,9 @@
             "location": "Phnom Penh",
             "travelTime": "8 Mins",
             "landscape":  [
-                            "img/shalom.svg",
-                            "img/shalom1.svg",                        
-                            "img/shalom2.svg"                         
+                            "img/Data/wat.svg",
+                            "img/Data/wat1.svg",                        
+                            "img/Data/wat2.svg"                         
                           ]
 
         },
@@ -193,9 +193,9 @@
             "location": "Kampong Thum",
             "travelTime": "3 H 30 Mins",
             "landscape":  [
-                            "img/shalom.svg",
-                            "img/shalom1.svg",                        
-                            "img/shalom2.svg"                         
+                            "img/Data/prei.svg",
+                            "img/Data/prei1.svg",                        
+                            "img/Data/prei2.svg"                         
                           ]
 
         },
@@ -211,9 +211,9 @@
             "location": "Siem Reap",
             "travelTime": "5 H 15 Mins",
             "landscape":  [
-                            "img/shalom.svg",
-                            "img/shalom1.svg",                        
-                            "img/shalom2.svg"                         
+                            "img/Data/mealea.svg",
+                            "img/Data/mealea1.svg",                        
+                            "img/Data/mealea2.svg"                         
                           ]
 
         },
@@ -229,9 +229,9 @@
             "location": "Siem Reap",
             "travelTime": "2 H 19 Mins",
             "landscape":  [
-                            "img/shalom.svg",
-                            "img/shalom1.svg",                        
-                            "img/shalom2.svg"                         
+                            "img/Data/shalom.svg",
+                            "img/Data/shalom1.svg",                        
+                            "img/Data/shalom2.svg"                         
                           ]
 
         },
@@ -247,9 +247,9 @@
             "location": "Kos Kong",
             "travelTime": "5 H 45 Mins",
             "landscape":  [
-                            "img/shalom1.svg",
-                            "img/shalom.svg",                        
-                            "img/shalom2.svg"                         
+                            "img/Data/shalom1.svg",
+                            "img/Data/shalom.svg",                        
+                            "img/Data/shalom2.svg"                         
                           ]
 
         },
@@ -265,9 +265,9 @@
             "location": "Siem Reap",
             "travelTime": "5 H 15 Mins",
             "landscape":  [
-                            "img/shalom.svg",
-                            "img/shalom1.svg",                        
-                            "img/shalom2.svg"                         
+                            "img/Data/banteay1.svg",
+                            "img/Data/shalom1.svg",                        
+                            "img/Data/shalom2.svg"                         
                           ]
 
         },
@@ -283,9 +283,9 @@
             "location": "Kos Kong",
             "travelTime": "3 H 25 Mins",
             "landscape":  [
-                            "img/shalom.svg",
-                            "img/shalom1.svg",                        
-                            "img/shalom2.svg"                         
+                            "img/Data/shalom.svg",
+                            "img/Data/shalom1.svg",                        
+                            "img/Data/shalom2.svg"                         
                           ]
 
         }
