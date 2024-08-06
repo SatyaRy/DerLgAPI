@@ -96,7 +96,7 @@
             "id": "6",
             "indexNumber": 6,
             "type": "Temple",
-            "resortName": "Phnom Kroam",
+            "resortName": "Prasat Phnom Kroam",
             "provinceName": "Siem Reap",
             "travelDistance": "328.3",
             "averagecost":5,
@@ -114,7 +114,7 @@
             "id": "7",
             "indexNumber": 7,
             "type": "Temple",
-            "resortName": "Banteay Srei",
+            "resortName": "Prasat Banteay Srei",
             "provinceName": "Siem Reap",
             "travelDistance": "335.9",
             "averagecost":37,
@@ -132,7 +132,7 @@
             "id": "8",
             "indexNumber": 8,
             "type": "Temple",
-            "resortName": "Baksei Chamkrong",
+            "resortName": "Prasat Baksei Chamkrong",
             "provinceName": "Siem Reap",
             "travelDistance": "324.7",
             "averagecost":37,
@@ -150,7 +150,7 @@
             "id": "9",
             "indexNumber": 9,
             "type": "Temple",
-            "resortName": "Koh Ker",
+            "resortName": "Prasat Koh Ker",
             "provinceName": "Preah Vihear",
             "travelDistance": "369.1",
             "averagecost":10,
@@ -186,7 +186,7 @@
             "id": "11",
             "indexNumber": 11,
             "type": "Temple",
-            "resortName": "Sambor Prei Kuk",
+            "resortName": "Prasat Sambor Prei Kuk",
             "provinceName": "Kampong Thum",
             "travelDistance": "200.5",
             "averagecost":10,
@@ -229,9 +229,9 @@
             "location": "Siem Reap",
             "travelTime": "2 H 19 Mins",
             "landscape":  [
-                            "img/Data/shalom.svg",
-                            "img/Data/shalom1.svg",                        
-                            "img/Data/shalom2.svg"                         
+                            "img/Data/merl.svg",
+                            "img/Data/merl1.svg",                        
+                            "img/Data/merl2.svg"                         
                           ]
 
         },
@@ -247,9 +247,9 @@
             "location": "Kos Kong",
             "travelTime": "5 H 45 Mins",
             "landscape":  [
-                            "img/Data/shalom1.svg",
-                            "img/Data/shalom.svg",                        
-                            "img/Data/shalom2.svg"                         
+                            "img/Data/areng.svg",
+                            "img/Data/areng1.svg",                        
+                            "img/Data/areng2.svg"                         
                           ]
 
         },
@@ -265,9 +265,9 @@
             "location": "Siem Reap",
             "travelTime": "5 H 15 Mins",
             "landscape":  [
-                            "img/Data/banteay1.svg",
-                            "img/Data/shalom1.svg",                        
-                            "img/Data/shalom2.svg"                         
+                            "img/Data/wild.svg",
+                            "img/Data/wild1.svg",                        
+                            "img/Data/wild2.svg"                         
                           ]
 
         },
@@ -283,9 +283,9 @@
             "location": "Kos Kong",
             "travelTime": "3 H 25 Mins",
             "landscape":  [
-                            "img/Data/shalom.svg",
-                            "img/Data/shalom1.svg",                        
-                            "img/Data/shalom2.svg"                         
+                            "img/Data/river.svg",
+                            "img/Data/river1.svg",                        
+                            "img/Data/river2.svg"                         
                           ]
 
         }
