@@ -229,9 +229,9 @@
             "location": "Siem Reap",
             "travelTime": "2 H 19 Mins",
             "landscape":  [
-                            "img/mealea.svg",
-                            "img/mealea1.svg",                        
-                            "img/mealea2.svg"                         
+                            "img/shalom.svg",
+                            "img/shalom1.svg",                        
+                            "img/shalom2.svg"                         
                           ]
 
         },
@@ -247,9 +247,9 @@
             "location": "Kos Kong",
             "travelTime": "5 H 45 Mins",
             "landscape":  [
-                            "img/mealea.svg",
-                            "img/mealea1.svg",                        
-                            "img/mealea2.svg"                         
+                            "img/shalom1.svg",
+                            "img/shalom.svg",                        
+                            "img/shalom2.svg"                         
                           ]
 
         },
@@ -265,9 +265,9 @@
             "location": "Siem Reap",
             "travelTime": "5 H 15 Mins",
             "landscape":  [
-                            "img/mealea.svg",
-                            "img/mealea1.svg",                        
-                            "img/mealea2.svg"                         
+                            "img/shalom.svg",
+                            "img/shalom1.svg",                        
+                            "img/shalom2.svg"                         
                           ]
 
         },
@@ -283,9 +283,9 @@
             "location": "Kos Kong",
             "travelTime": "3 H 25 Mins",
             "landscape":  [
-                            "img/mealea.svg",
-                            "img/mealea1.svg",                        
-                            "img/mealea2.svg"                         
+                            "img/shalom.svg",
+                            "img/shalom1.svg",                        
+                            "img/shalom2.svg"                         
                           ]
 
         }
