@@ -49,9 +49,10 @@
             "location": "Sieam Reap",
             "travelTime": "6 hour",
             "landscape":  [
-                            "img/Data/bayon.svg",
-                            "img/Data/bayon1.svg",                        
-                            "img/Data/bayon2.svg"                         
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014035/DerLeng/bayon.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014035/DerLeng/bayon1.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014035/DerLeng/bayon2.svg"
+                                                   
                           ]
 
         },
@@ -67,9 +68,10 @@
             "location": "Preah Vihear",
             "travelTime": "7 H 18 Mins",
             "landscape":  [
-                            "img/Data/preah.svg",
-                            "img/Data/preah1.svg",                        
-                            "img/Data/preah2.svg"                         
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014055/DerLeng/preah.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014055/DerLeng/preah1.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014055/DerLeng/preah2.svg"
+                                                  
                           ]
 
         },
@@ -85,9 +87,10 @@
             "location": "Preah Vihear",
             "travelTime": "7 H",
             "landscape":  [
-                            "img/Data/khan.svg",
-                            "img/Data/khan1.svg",                        
-                            "img/Data/khan2.svg"                         
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014049/DerLeng/khan.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014049/DerLeng/khan1.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014049/DerLeng/khan2.svg"
+                                           
                           ]
 
         },
@@ -103,9 +106,10 @@
             "location": "Siem Reap",
             "travelTime": "5 H 30 Mins",
             "landscape":  [
-                            "img/Data/kroam.svg",
-                            "img/Data/kroam1.svg",                        
-                            "img/Data/kroam2.svg"                         
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014052/DerLeng/kroam.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014052/DerLeng/kroam1.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014052/DerLeng/kroam2.svg"
+                                                
                           ]
 
         },
@@ -121,9 +125,10 @@
             "location": "Siem Reap",
             "travelTime": "5 H 30 Mins",
             "landscape":  [
-                            "img/Data/banteay.svg",
-                            "img/Data/banteay1.svg",                        
-                            "img/Data/banteay2.svg"                         
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014043/DerLeng/banteay.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014043/DerLeng/banteay1.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014043/DerLeng/banteay2.svg"
+                                             
                           ]
 
         },
@@ -139,9 +144,10 @@
             "location": "Siem Reap",
             "travelTime": "5 H 30 Mins",
             "landscape":  [
-                            "img/Data/baksei.svg",
-                            "img/Data/baksei1.svg",                        
-                            "img/Data/baksei2.svg"                         
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014031/DerLeng/baksei.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014031/DerLeng/baksei1.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014031/DerLeng/baksei2.svg"
+                                                 
                           ]
 
         },
@@ -157,9 +163,10 @@
             "location": "Preah Vihear",
             "travelTime": "6 H 10 Mins",
             "landscape":  [
-                            "img/Data/ker.svg",
-                            "img/Data/ker1.svg",                        
-                            "img/Data/ker2.svg"                         
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014046/DerLeng/kohker.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014046/DerLeng/kohker1.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014046/DerLeng/kohker2.svg"
+                                                   
                           ]
 
         },
@@ -175,9 +182,10 @@
             "location": "Phnom Penh",
             "travelTime": "8 Mins",
             "landscape":  [
-                            "img/Data/wat.svg",
-                            "img/Data/wat1.svg",                        
-                            "img/Data/wat2.svg"                         
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014081/DerLeng/wat.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014081/DerLeng/wat1.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014081/DerLeng/wat2.svg"
+                                                   
                           ]
 
         },
@@ -193,9 +201,10 @@
             "location": "Kampong Thum",
             "travelTime": "3 H 30 Mins",
             "landscape":  [
-                            "img/Data/prei.svg",
-                            "img/Data/prei1.svg",                        
-                            "img/Data/prei2.svg"                         
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014075/DerLeng/prei.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014075/DerLeng/prei1.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014075/DerLeng/prei2.svg"
+                                             
                           ]
 
         },
@@ -211,9 +220,9 @@
             "location": "Siem Reap",
             "travelTime": "5 H 15 Mins",
             "landscape":  [
-                            "img/Data/mealea.svg",
-                            "img/Data/mealea1.svg",                        
-                            "img/Data/mealea2.svg"                         
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014053/DerLeng/mealea.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014053/DerLeng/mealea1.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014053/DerLeng/mealea2.svg"                    
                           ]
 
         },
