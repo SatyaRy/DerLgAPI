@@ -13,9 +13,10 @@
             "location": "kampong spue",
             "travelTime": "40 mins",
             "landscape":  [
-                            "img/Data/shalom.svg",
-                            "img/Data/shalom1.svg",                        
-                            "https://res.cloudinary.com/dnydodget/image/upload/f_auto,q_auto/v1/DerLeng/wildfarm"                         
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/shalom.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/shalom1.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/shalom2.svg"
+                           
                           ]
 
         },
@@ -31,9 +32,10 @@
             "location": "kampong spue",
             "travelTime": "45 mins",
             "landscape":  [
-                            "img/Data/kamcamp.svg",
-                            "img/Data/kamcamp1.svg",                        
-                            "img/Data/kamcamp.svg"                         
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/kamp.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/kamp1.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/kamp2.svg"
+                                                
                           ]
 
         },
@@ -238,9 +240,10 @@
             "location": "Siem Reap",
             "travelTime": "2 H 19 Mins",
             "landscape":  [
-                            "img/Data/merl.svg",
-                            "img/Data/merl1.svg",                        
-                            "img/Data/merl2.svg"                         
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/merl.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/merl1.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/merl2.svg"
+                                              
                           ]
 
         },
@@ -256,9 +259,10 @@
             "location": "Kos Kong",
             "travelTime": "5 H 45 Mins",
             "landscape":  [
-                            "img/Data/areng.svg",
-                            "img/Data/areng1.svg",                        
-                            "img/Data/areng2.svg"                         
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/areng.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/areng1.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/areng2.svg"
+                                                 
                           ]
 
         },
@@ -274,9 +278,10 @@
             "location": "Siem Reap",
             "travelTime": "5 H 15 Mins",
             "landscape":  [
-                            "img/Data/wild.svg",
-                            "img/Data/wild1.svg",                        
-                            "img/Data/wild2.svg"                         
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/wild.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/wild1.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/wild2.svg",
+                                         
                           ]
 
         },
@@ -292,9 +297,10 @@
             "location": "Kos Kong",
             "travelTime": "3 H 25 Mins",
             "landscape":  [
-                            "img/Data/river.svg",
-                            "img/Data/river1.svg",                        
-                            "img/Data/river2.svg"                         
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/river.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/river1.svg",
+                            "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/river2.svg"
+                                                
                           ]
 
         }
