@@ -243,17 +243,81 @@
     {
       "id": "16",
       "indexNumber": 16,
-      "type": "Camping",
-      "resortName": "River Cloud Camping",
-      "provinceName": "Kos Kong",
-      "travelDistance": "185",
+      "type": "Mountain",
+      "resortName": "Phmom Chisor",
+      "provinceName": "Takeo",
+      "travelDistance": "60",
       "averagecost": 5,
-      "location": "Kos Kong",
-      "travelTime": "3 H 25 Mins",
+      "location": "Takeo",
+      "travelTime": "1 H 30 Mins",
       "landscape": [
-        "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/river.svg",
-        "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/river1.svg",
-        "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/river2.svg"
+         "https://res.cloudinary.com/dnydodget/image/upload/v1723540097/lake/chisor.svg",
+         "https://res.cloudinary.com/dnydodget/image/upload/v1723540097/lake/chisor1.svg",
+         "https://res.cloudinary.com/dnydodget/image/upload/v1723540097/lake/chisor2.svg"
+      ]
+    },
+    {
+      "id": "17",
+      "indexNumber": 17,
+      "type": "Mountain",
+      "resortName": "Phnom Samkos",
+      "provinceName": "Pursat",
+      "travelDistance": "80",
+      "averagecost": 10,
+      "location": "Phnom Samkos wildlife",
+      "travelTime": "3 H 30 Mins",
+      "landscape": [
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723540097/lake/samkos.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723540097/lake/samkos1.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723540097/lake/samkos2.svg"
+      ]
+    },
+    {
+      "id": "18",
+      "indexNumber": 18,
+      "type": "Mountain",
+      "resortName": "Phnom Aural",
+      "provinceName": "Kampong speu",
+      "travelDistance": "70",
+      "averagecost": 10,
+      "location": "Aoral district kampong speu",
+      "travelTime": "3 H 00 mins",
+      "landscape": [
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723540097/lake/aural.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723540097/lake/aural1.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723540097/lake/aural2.svg"
+      ]
+    },
+    {
+      "id": "19",
+      "indexNumber": 19,
+      "type": "Mountain",
+      "resortName": "Bokor Mountain",
+      "provinceName": "Kampot",
+      "travelDistance": "42",
+      "averagecost": 1,
+      "location": "Preah monivong bokor national park ",
+      "travelTime": "1 H 00 Mins",
+      "landscape": [
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723540097/lake/bokor.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723540097/lake/bokor1.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723540097/lake/bokor2.svg"
+      ]
+    },
+    {
+      "id": "20",
+      "indexNumber": 20,
+      "type": "Mountain",
+      "resortName": "Phnom Kulen",
+      "provinceName": "Siem reap",
+      "travelDistance": "50",
+      "averagecost": 20,
+      "location": "Phnom Kulen national park ",
+      "travelTime": "1 H 3 Mins",
+      "landscape": [
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723540097/lake/kulen.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723540097/lake/kulen1.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723540097/lake/kulen2.svg"
       ]
     }
   ]
