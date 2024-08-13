@@ -319,6 +319,105 @@
         "https://res.cloudinary.com/dnydodget/image/upload/v1723540097/lake/kulen1.svg",
         "https://res.cloudinary.com/dnydodget/image/upload/v1723540097/lake/kulen2.svg"
       ]
+    },
+    {
+      "id": "21",
+      "indexNumber": 21,
+      "type": "Beach",
+      "resortName": "Kep Beach",
+      "provinceName": "kep",
+      "travelDistance": "164",
+      "averagecost": 5,
+      "location": "Kep ",
+      "travelTime": "4 H 00 Mins",
+      "landscape": [
+          "https://res.cloudinary.com/dnydodget/image/upload/v1723556721/beach/kep.svg",
+          "https://res.cloudinary.com/dnydodget/image/upload/v1723556721/beach/kep1.svg",
+          "https://res.cloudinary.com/dnydodget/image/upload/v1723556721/beach/kep2.svg"
+      ]
+    },
+    {
+      "id": "22",
+      "indexNumber": 22,
+      "type": "Beach",
+      "resortName": "Otres Beach",
+      "provinceName": "Sihanoukville",
+      "travelDistance": "227",
+      "averagecost": 10,
+      "location": "Sihanoukville ",
+      "travelTime": "4 H 00 Mins",
+      "landscape": [
+          "https://res.cloudinary.com/dnydodget/image/upload/v1723556721/beach/otres.svg",
+          "https://res.cloudinary.com/dnydodget/image/upload/v1723556721/beach/otres1.svg",
+          "https://res.cloudinary.com/dnydodget/image/upload/v1723556721/beach/otres2.svg"
+      ]
+    },
+    {
+      "id": "23",
+      "indexNumber": 23,
+      "type": "Beach",
+      "resortName": "Ochheuteal Beach",
+      "provinceName": "Sihanoukville",
+      "travelDistance": "227",
+      "averagecost": 5,
+      "location": "Sihanoukville ",
+      "travelTime": "4 H 00 Mins",
+      "landscape": [
+          "https://res.cloudinary.com/dnydodget/image/upload/v1723556721/beach/tree.svg",
+          "https://res.cloudinary.com/dnydodget/image/upload/v1723556721/beach/tree1.svg",
+          "https://res.cloudinary.com/dnydodget/image/upload/v1723556721/beach/tree2.svg"
+      ]
+    },
+    {
+      "id": "24",
+      "indexNumber": 24,
+      "type": "Beach",
+      "resortName": "Ream Beach",
+      "provinceName": "Sihanoukville",
+      "travelDistance": "227",
+      "averagecost": 5,
+      "location": "Sihanoukville ",
+      "travelTime": "4 H 00 Mins",
+      "landscape": [
+          "https://res.cloudinary.com/dnydodget/image/upload/v1723556721/beach/ream.svg",
+          "https://res.cloudinary.com/dnydodget/image/upload/v1723556721/beach/ream1.svg",
+          "https://res.cloudinary.com/dnydodget/image/upload/v1723556721/beach/ream2.svg"
+      ]
+    },
+    {
+      "id": "25",
+      "indexNumber": 25,
+      "type": "Beach",
+      "resortName": "Victory Beach",
+      "provinceName": "Sihanoukville",
+      "travelDistance": "227",
+      "averagecost": 5,
+      "location": "Kep ",
+      "travelTime": "4 H 00 Mins",
+      "landscape": [
+          "https://res.cloudinary.com/dnydodget/image/upload/v1723556721/beach/victory.svg",
+          "https://res.cloudinary.com/dnydodget/image/upload/v1723556721/beach/victory1.svg",
+          "https://res.cloudinary.com/dnydodget/image/upload/v1723556721/beach/victory2.svg"
+      ]
+    },
+    {
+      "id": "26",
+      "indexNumber": 26,
+      "type": "Beach",
+      "resortName": "Preak Treng Beach",
+      "provinceName": "kep",
+      "travelDistance": "164",
+      "averagecost": 5,
+      "location": "Kep ",
+      "travelTime": "3 H 00 Mins",
+      "landscape": [
+          "https://res.cloudinary.com/dnydodget/image/upload/v1723556721/beach/prek.svg",
+          "https://res.cloudinary.com/dnydodget/image/upload/v1723556721/beach/prek1.svg",
+          "https://res.cloudinary.com/dnydodget/image/upload/v1723556721/beach/prek2.svg"
+      ]
     }
+   
+  
+
   ]
 }
