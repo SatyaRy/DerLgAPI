@@ -1,1 +1,260 @@
-{"province":[{"id":"1","indexNumber":1,"type":"Camping","resortName":"shalom valley","provinceName":"kampot","travelDistance":"30","averagecost":70,"location":"kampong spue","travelTime":"40 mins","landscape":["https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/shalom.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/shalom1.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/shalom2.svg"]},{"id":"2","indexNumber":2,"type":"Camping","resortName":"kampot camping","provinceName":"kampot","travelDistance":"25","averagecost":20,"location":"kampong spue","travelTime":"45 mins","landscape":["https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/kamp.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/kamp1.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/kamp.svg"]},{"id":"3","indexNumber":3,"type":"Temple","resortName":"Bayon Temple","provinceName":"Siem Reap","travelDistance":"240","averagecost":37,"location":"Sieam Reap","travelTime":"6 hour","landscape":["https://res.cloudinary.com/dnydodget/image/upload/v1723014035/DerLeng/bayon.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014035/DerLeng/bayon1.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014035/DerLeng/bayon2.svg"]},{"id":"4","indexNumber":4,"type":"Temple","resortName":"Prasat Preah Vihear","provinceName":"Preah Vihear","travelDistance":"417.9","averagecost":10,"location":"Preah Vihear","travelTime":"7 H 18 Mins","landscape":["https://res.cloudinary.com/dnydodget/image/upload/v1723014055/DerLeng/preah.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014055/DerLeng/preah1.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014055/DerLeng/preah2.svg"]},{"id":"5","indexNumber":5,"type":"Temple","resortName":"Prasat Preah Khan","provinceName":"Preah Vihear","travelDistance":"331.6","averagecost":37,"location":"Preah Vihear","travelTime":"7 H","landscape":["https://res.cloudinary.com/dnydodget/image/upload/v1723014049/DerLeng/khan.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014049/DerLeng/khan1.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014049/DerLeng/khan2.svg"]},{"id":"6","indexNumber":6,"type":"Temple","resortName":"Prasat Phnom Kroam","provinceName":"Siem Reap","travelDistance":"328.3","averagecost":5,"location":"Siem Reap","travelTime":"5 H 30 Mins","landscape":["https://res.cloudinary.com/dnydodget/image/upload/v1723014052/DerLeng/kroam.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014052/DerLeng/kroam1.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014052/DerLeng/kroam2.svg"]},{"id":"7","indexNumber":7,"type":"Temple","resortName":"Prasat Banteay Srei","provinceName":"Siem Reap","travelDistance":"335.9","averagecost":37,"location":"Siem Reap","travelTime":"5 H 30 Mins","landscape":["https://res.cloudinary.com/dnydodget/image/upload/v1723014043/DerLeng/banteay.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014043/DerLeng/banteay1.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014043/DerLeng/banteay2.svg"]},{"id":"8","indexNumber":8,"type":"Temple","resortName":"Prasat Baksei Chamkrong","provinceName":"Siem Reap","travelDistance":"324.7","averagecost":37,"location":"Siem Reap","travelTime":"5 H 30 Mins","landscape":["https://res.cloudinary.com/dnydodget/image/upload/v1723014031/DerLeng/baksei.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014031/DerLeng/baksei1.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014031/DerLeng/baksei2.svg"]},{"id":"9","indexNumber":9,"type":"Temple","resortName":"Prasat Koh Ker","provinceName":"Preah Vihear","travelDistance":"369.1","averagecost":10,"location":"Preah Vihear","travelTime":"6 H 10 Mins","landscape":["https://res.cloudinary.com/dnydodget/image/upload/v1723014046/DerLeng/kohker.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014046/DerLeng/kohker1.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014046/DerLeng/kohker2.svg"]},{"id":"10","indexNumber":10,"type":"Temple","resortName":"Wat Phnom","provinceName":"Phnom Penh","travelDistance":"2.4","averagecost":1,"location":"Phnom Penh","travelTime":"8 Mins","landscape":["https://res.cloudinary.com/dnydodget/image/upload/v1723014081/DerLeng/wat1.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014081/DerLeng/wat1.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014081/DerLeng/wat2.svg"]},{"id":"11","indexNumber":11,"type":"Temple","resortName":"Prasat Sambor Prei Kuk","provinceName":"Kampong Thum","travelDistance":"200.5","averagecost":10,"location":"Kampong Thum","travelTime":"3 H 30 Mins","landscape":["https://res.cloudinary.com/dnydodget/image/upload/v1723014075/DerLeng/prei.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014075/DerLeng/prei1.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014075/DerLeng/prei2.svg"]},{"id":"12","indexNumber":12,"type":"Temple","resortName":"Beng Mealea","provinceName":"Siem Reap","travelDistance":"315.9","averagecost":5,"location":"Siem Reap","travelTime":"5 H 15 Mins","landscape":["https://res.cloudinary.com/dnydodget/image/upload/v1723014053/DerLeng/mealea.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014053/DerLeng/mealea1.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014053/DerLeng/mealea2.svg"]},{"id":"13","indexNumber":13,"type":"Camping","resortName":"Merl Pkay Camping","provinceName":"K.P Channag","travelDistance":"112.3","averagecost":5,"location":"Siem Reap","travelTime":"2 H 19 Mins","landscape":["https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/merl.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/merl1.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/merl2.svg"]},{"id":"14","indexNumber":14,"type":"Camping","resortName":"Areng Camping","provinceName":"Kos Kong","travelDistance":"329.7","averagecost":5,"location":"Kos Kong","travelTime":"5 H 45 Mins","landscape":["https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/areng.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/areng1.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/areng2.svg"]},{"id":"15","indexNumber":15,"type":"Camping","resortName":"Wild Farm","provinceName":"Siem Reap","travelDistance":"315.9","averagecost":5,"location":"Siem Reap","travelTime":"5 H 15 Mins","landscape":["https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/wild.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/wild1.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/wild2.svg"]},{"id":"16","indexNumber":16,"type":"Camping","resortName":"River Cloud Camping","provinceName":"Kos Kong","travelDistance":"185","averagecost":5,"location":"Kos Kong","travelTime":"3 H 25 Mins","landscape":["https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/river.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/river1.svg","https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/river2.svg"]}]}
+{
+  "province": [
+    {
+      "id": "1",
+      "indexNumber": 1,
+      "type": "Camping",
+      "resortName": "shalom valley",
+      "provinceName": "kampot",
+      "travelDistance": "30",
+      "averagecost": 70,
+      "location": "kampong spue",
+      "travelTime": "40 mins",
+      "landscape": [
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/shalom.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/shalom1.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/shalom2.svg"
+      ]
+    },
+    {
+      "id": "2",
+      "indexNumber": 2,
+      "type": "Camping",
+      "resortName": "kampot camping",
+      "provinceName": "kampot",
+      "travelDistance": "25",
+      "averagecost": 20,
+      "location": "kampong spue",
+      "travelTime": "45 mins",
+      "landscape": [
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/kamp.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/kamp1.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/kamp.svg"
+      ]
+    },
+    {
+      "id": "3",
+      "indexNumber": 3,
+      "type": "Temple",
+      "resortName": "Bayon Temple",
+      "provinceName": "Siem Reap",
+      "travelDistance": "240",
+      "averagecost": 37,
+      "location": "Sieam Reap",
+      "travelTime": "6 hour",
+      "landscape": [
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014035/DerLeng/bayon.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014035/DerLeng/bayon1.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014035/DerLeng/bayon2.svg"
+      ]
+    },
+    {
+      "id": "4",
+      "indexNumber": 4,
+      "type": "Temple",
+      "resortName": "Prasat Preah Vihear",
+      "provinceName": "Preah Vihear",
+      "travelDistance": "417.9",
+      "averagecost": 10,
+      "location": "Preah Vihear",
+      "travelTime": "7 H 18 Mins",
+      "landscape": [
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014055/DerLeng/preah.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014055/DerLeng/preah1.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014055/DerLeng/preah2.svg"
+      ]
+    },
+    {
+      "id": "5",
+      "indexNumber": 5,
+      "type": "Temple",
+      "resortName": "Prasat Preah Khan",
+      "provinceName": "Preah Vihear",
+      "travelDistance": "331.6",
+      "averagecost": 37,
+      "location": "Preah Vihear",
+      "travelTime": "7 H",
+      "landscape": [
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014049/DerLeng/khan.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014049/DerLeng/khan1.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014049/DerLeng/khan2.svg"
+      ]
+    },
+    {
+      "id": "6",
+      "indexNumber": 6,
+      "type": "Temple",
+      "resortName": "Prasat Phnom Kroam",
+      "provinceName": "Siem Reap",
+      "travelDistance": "328.3",
+      "averagecost": 5,
+      "location": "Siem Reap",
+      "travelTime": "5 H 30 Mins",
+      "landscape": [
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014052/DerLeng/kroam.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014052/DerLeng/kroam1.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014052/DerLeng/kroam2.svg"
+      ]
+    },
+    {
+      "id": "7",
+      "indexNumber": 7,
+      "type": "Temple",
+      "resortName": "Prasat Banteay Srei",
+      "provinceName": "Siem Reap",
+      "travelDistance": "335.9",
+      "averagecost": 37,
+      "location": "Siem Reap",
+      "travelTime": "5 H 30 Mins",
+      "landscape": [
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014043/DerLeng/banteay.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014043/DerLeng/banteay1.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014043/DerLeng/banteay2.svg"
+      ]
+    },
+    {
+      "id": "8",
+      "indexNumber": 8,
+      "type": "Temple",
+      "resortName": "Prasat Baksei Chamkrong",
+      "provinceName": "Siem Reap",
+      "travelDistance": "324.7",
+      "averagecost": 37,
+      "location": "Siem Reap",
+      "travelTime": "5 H 30 Mins",
+      "landscape": [
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014031/DerLeng/baksei.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014031/DerLeng/baksei1.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014031/DerLeng/baksei2.svg"
+      ]
+    },
+    {
+      "id": "9",
+      "indexNumber": 9,
+      "type": "Temple",
+      "resortName": "Prasat Koh Ker",
+      "provinceName": "Preah Vihear",
+      "travelDistance": "369.1",
+      "averagecost": 10,
+      "location": "Preah Vihear",
+      "travelTime": "6 H 10 Mins",
+      "landscape": [
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014046/DerLeng/kohker.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014046/DerLeng/kohker1.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014046/DerLeng/kohker2.svg"
+      ]
+    },
+    {
+      "id": "10",
+      "indexNumber": 10,
+      "type": "Temple",
+      "resortName": "Wat Phnom",
+      "provinceName": "Phnom Penh",
+      "travelDistance": "2.4",
+      "averagecost": 1,
+      "location": "Phnom Penh",
+      "travelTime": "8 Mins",
+      "landscape": [
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014081/DerLeng/wat1.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014081/DerLeng/wat1.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014081/DerLeng/wat2.svg"
+      ]
+    },
+    {
+      "id": "11",
+      "indexNumber": 11,
+      "type": "Temple",
+      "resortName": "Prasat Sambor Prei Kuk",
+      "provinceName": "Kampong Thum",
+      "travelDistance": "200.5",
+      "averagecost": 10,
+      "location": "Kampong Thum",
+      "travelTime": "3 H 30 Mins",
+      "landscape": [
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014075/DerLeng/prei.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014075/DerLeng/prei1.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014075/DerLeng/prei2.svg"
+      ]
+    },
+    {
+      "id": "12",
+      "indexNumber": 12,
+      "type": "Temple",
+      "resortName": "Beng Mealea",
+      "provinceName": "Siem Reap",
+      "travelDistance": "315.9",
+      "averagecost": 5,
+      "location": "Siem Reap",
+      "travelTime": "5 H 15 Mins",
+      "landscape": [
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014053/DerLeng/mealea.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014053/DerLeng/mealea1.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014053/DerLeng/mealea2.svg"
+      ]
+    },
+    {
+      "id": "13",
+      "indexNumber": 13,
+      "type": "Camping",
+      "resortName": "Merl Pkay Camping",
+      "provinceName": "K.P Channag",
+      "travelDistance": "112.3",
+      "averagecost": 5,
+      "location": "Siem Reap",
+      "travelTime": "2 H 19 Mins",
+      "landscape": [
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/merl.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/merl1.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/merl2.svg"
+      ]
+    },
+    {
+      "id": "14",
+      "indexNumber": 14,
+      "type": "Camping",
+      "resortName": "Areng Camping",
+      "provinceName": "Kos Kong",
+      "travelDistance": "329.7",
+      "averagecost": 5,
+      "location": "Kos Kong",
+      "travelTime": "5 H 45 Mins",
+      "landscape": [
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/areng.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/areng1.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/areng2.svg"
+      ]
+    },
+    {
+      "id": "15",
+      "indexNumber": 15,
+      "type": "Camping",
+      "resortName": "Wild Farm",
+      "provinceName": "Siem Reap",
+      "travelDistance": "315.9",
+      "averagecost": 5,
+      "location": "Siem Reap",
+      "travelTime": "5 H 15 Mins",
+      "landscape": [
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/wild.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/wild1.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/wild2.svg"
+      ]
+    },
+    {
+      "id": "16",
+      "indexNumber": 16,
+      "type": "Camping",
+      "resortName": "River Cloud Camping",
+      "provinceName": "Kos Kong",
+      "travelDistance": "185",
+      "averagecost": 5,
+      "location": "Kos Kong",
+      "travelTime": "3 H 25 Mins",
+      "landscape": [
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/river.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/river1.svg",
+        "https://res.cloudinary.com/dnydodget/image/upload/v1723014072/DerLeng/river2.svg"
+      ]
+    }
+  ]
+}
